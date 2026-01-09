@@ -90,7 +90,7 @@ int main()
 
     // Print the result
     cout << result[0] << endl; // max_median
-    cout << result[1] << endl; // min_median
+    
 
     return 0;
 }
