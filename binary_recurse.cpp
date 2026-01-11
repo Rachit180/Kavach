@@ -76,7 +76,7 @@ int main()
     
     // Example from Sample Case 1:
     // int n = 5;
-    // vector<int> values = {16, 21, 9, 2, 78};
+    
     
 
     int n = 3;
