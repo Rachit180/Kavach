@@ -67,8 +67,7 @@ vector<int> medians(vector<int> values, int k) {
 // This part would be provided by the testing environment.
 int main()
 {
-    // This is just a placeholder to make the file runnable.
-    // The online judge will call the 'medians' function directly.
+    
     
     // Example from Sample Case 0:
     // int n = 2;
@@ -80,7 +79,6 @@ int main()
     // vector<int> values = {16, 21, 9, 2, 78};
     // int k = 5;
 
-    // Example from problem description:
     int n = 3;
     vector<int> values = {1, 2, 3};
     int k = 2;
